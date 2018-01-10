@@ -1,0 +1,106 @@
+
+.abc, .soeur {
+    display: inline;
+    color: #4b4a4c;
+    font-family: arial,sans-serif;
+    font-size: small;
+    justify-content: flex-end;
+    padding-left: 27px;
+    }
+.def {
+    display: inline;
+    padding-left: 27px;
+     color: #4b4a4c;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.ghi{
+    display: inline;
+    padding-left: 27px;
+     color: #4b4a4c;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.abc:hover { text-decoration: underline;
+   color: #282828;
+ }
+.tamere{
+    display: inline;
+    color: #FFFFFF;
+    font-weight: bold;
+    background-color: #4285f4;
+    border: 3px #4285f4 solid;
+    border-radius: 3px;
+    font-family: arial,sans-serif;
+    font-size: small;
+    justify-content: center;
+    margin-right: 20px;
+
+}
+.application{
+    display: inline;
+margin-bottom: -100px;
+}
+
+
+#bouton
+{
+    display: flex;
+    justify-content: center;
+background-color: #f8f8f8}
+
+
+#bas
+{display: flex;
+justify-content: center;
+justify-content: space-between;}
+
+
+#dernier{
+     margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+}
+.searchTerm{
+	width: 400px;
+	height: 28px;
+}
+
+.div1 {
+	width: 550px;
+	display: flex;
+	margin: auto;
+	justify-content: center;
+	}
+.pedale {width: 220px;
+}
+
+.navbar {display: flex; justify-content: flex-end;}
+.navbar1 {background-color: #e4e4e4; border-top: solid #c6c6c6;
+	border-top-width: 1px;  color: #4b4a4c;
+    font-family: arial,sans-serif;
+    font-size: small;
+}
+.tasoeur {background-color: #e4e4e4;
+max-height: 5px;}
+
+
+
+#bas {
+margin-left: -70px;
+background-color: #e4e4e4;
+border-top: solid #c6c6c6;
+border-top-width: 1px;
+max-height: 40px;
+}
+.def:hover { text-decoration: underline;
+   color: #282828;
+ }
+ .ghi:hover { text-decoration: underline;
+   color: #282828;
+ }
+ .navbar1:hover { text-decoration: underline;
+   color: #282828;}
+   .soeur:hover { text-decoration: underline;
+   color: #282828;}
+   .tasoeur {margin-top: 350px}
